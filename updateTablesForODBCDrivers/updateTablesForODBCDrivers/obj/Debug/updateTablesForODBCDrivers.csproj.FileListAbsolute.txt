@@ -1,7 +1,5 @@
 C:\Users\kmaAdmin\Documents\GitHub\updateSQLdbcollection\updateTablesForODBCDrivers\updateTablesForODBCDrivers\bin\Debug\updateTablesForODBCDrivers.XML
 C:\Users\kmaAdmin\Documents\GitHub\updateSQLdbcollection\updateTablesForODBCDrivers\updateTablesForODBCDrivers\bin\Debug\updateTablesForODBCDrivers.dll
 C:\Users\kmaAdmin\Documents\GitHub\updateSQLdbcollection\updateTablesForODBCDrivers\updateTablesForODBCDrivers\bin\Debug\updateTablesForODBCDrivers.pdb
-C:\Users\kmaAdmin\Documents\GitHub\updateSQLdbcollection\updateTablesForODBCDrivers\updateTablesForODBCDrivers\bin\Debug\CPBase.dll
 C:\Users\kmaAdmin\Documents\GitHub\updateSQLdbcollection\updateTablesForODBCDrivers\updateTablesForODBCDrivers\obj\Debug\updateTablesForODBCDrivers.dll
 C:\Users\kmaAdmin\Documents\GitHub\updateSQLdbcollection\updateTablesForODBCDrivers\updateTablesForODBCDrivers\obj\Debug\updateTablesForODBCDrivers.pdb
-C:\Users\kmaAdmin\Documents\GitHub\updateSQLdbcollection\updateTablesForODBCDrivers\updateTablesForODBCDrivers\obj\Debug\updateTablesForODBCDrivers.csprojResolveAssemblyReference.cache

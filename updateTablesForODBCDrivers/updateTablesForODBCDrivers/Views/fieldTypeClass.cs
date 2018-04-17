@@ -45,7 +45,7 @@ namespace updateTablesForODBCDrivers.Views
                         string sqlCopyData = "Update " + table.name + " set " + contentField.name + "new = " + contentField.name;
                         cp.Utils.AppendLog("tableUpdates.log", sqlCopyData + "copy data to New column");
                         cp.Db.ExecuteSQL(sqlCopyData);
-                        string sqlRenameOldField = "sp_rename  '" + table.name + "." + contentField.name + "', '" + contentField.name + "Old2', 'COLUMN'";
+                        string sqlRenameOldField = "sp_rename  '" + table.name + "." + contentField.name + "', '" + contentField.name + "Old1', 'COLUMN'";
                         cp.Utils.AppendLog("tableUpdates.log", sqlRenameOldField + "rename old column");
                         cp.Db.ExecuteSQL(sqlRenameOldField);
                         string sqlRenameNewField = "sp_rename  '" + table.name + "." + contentField.name + "new'" + ", '" + contentField.name + "', 'COLUMN'";
